@@ -7,7 +7,9 @@ If you want use this library, you only have to download BezierRefreshLayout proj
 If you prefer it, you can use the gradle dependency, you have to add these lines in your build.gradle file:
 
 `compile 'com.flyingstudio:bezierrefresh:1.0.1'`
+
 After this,you can use it in your project liake this way:
+
 ```
 <com.flyingstudio.BezierScrollLayout 
     android:layout_width="match_parent"
