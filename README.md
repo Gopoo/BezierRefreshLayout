@@ -1,6 +1,8 @@
 # BezierRefreshLayout
 ## How to use
-[ ![Download](https://api.bintray.com/packages/group123/maven/bezierrefresh/images/download.svg) ](https://bintray.com/group123/maven/bezierrefresh/_latestVersion)
+
+[![Download](https://api.bintray.com/packages/group123/maven/bezierrefresh/images/download.svg)](https://bintray.com/group123/maven/bezierrefresh/_latestVersion)
+
 If you want use this library, you only have to download BezierRefreshLayout project, import it into your workspace and add the project as a library in your android project settings.
 If you prefer it, you can use the gradle dependency, you have to add these lines in your build.gradle file:
 
@@ -38,6 +40,7 @@ bezierRefreshLayout.setRefreshing(false);
 *There are two important function,named:bezierHeight,setScrollListener(OnScrollListener ,listener),setRefreshing(boolean refreshing)*
 
 Then,you will see this picture if you swipe it:
+
 ![](http://opw9zb48a.bkt.clouddn.com/bezier.png)
 
 ## Attention
