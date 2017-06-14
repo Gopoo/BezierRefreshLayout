@@ -8,7 +8,7 @@ If you prefer it, you can use the gradle dependency, you have to add these lines
 
 `compile 'com.flyingstudio:bezierrefresh:1.0.1'`
 
-After this,you can use it in your project liake this way:
+After this,you can use it in your project like this way:
 
 ```
 <com.flyingstudio.BezierScrollLayout 
@@ -39,7 +39,7 @@ bezierRefreshLayout.setScrollListener(new OnScrollListener() {
 //if u download successfully or unsuccessfully.
 bezierRefreshLayout.setRefreshing(false);
 ```
-*There are two important function,named:bezierHeight,setScrollListener(OnScrollListener ,listener),setRefreshing(boolean refreshing)*
+*There are two important function,named:setScrollListener(OnScrollListener ,listener),setRefreshing(boolean refreshing)*
 
 Then,you will see this picture if you swipe it:
 
